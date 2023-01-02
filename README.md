@@ -7,6 +7,7 @@ Each character on the list have three components:
 - The image of the character decreases in opacity when hovered upon, and links to a great moment of the character.
 - There is a basic description of the character.
 The footer of the website says "By Shriyans Ghosh", with the most amount of periodic table elements possible.
+Lastly, make sure to view the recording of the website which gives a sneak peak of the user interface with this website.
 
 Credits:
 - tvinsider.com: image of the web banner; Lalo Salamanca image

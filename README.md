@@ -8,7 +8,7 @@ Each character on the list have three components:
 - There is a basic description of the character.
 The footer of the website says "By Shriyans Ghosh", with the most amount of periodic table elements possible.
 
-Lastly, make sure to view the recording of the website which gives a sneak peak of the user interface with this website.
+Lastly, make sure to view the recording of the website which gives a sneak peak of the user interface of this website.
 
 Credits:
 - Google. (n.d.-b). Browse Fonts. Google Fonts. https://fonts.google.com/
